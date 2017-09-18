@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/Evaluador.cpp
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/Evaluador.h
+
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/Evaluador.h
+iostream
+-
+vector
+-
+set
+-
+map
+-
+
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/main.cpp
+Evaluador.h
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/Evaluador.h
+iostream
+-
+vector
+-
+set
+-
+map
+-
+

@@ -1,0 +1,3 @@
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Beto/Google Drive/Code/C++/EstructuraTarea3-master/cmake-build-debug/CMakeFiles/EstructuraTarea3_master.dir
